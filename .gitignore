@@ -1,0 +1,13 @@
+db.sqlite3
+*.log
+mtcnn_face_mask.h5
+/__pycache/
+*.pyc
+/static/
+.idea/
+mask_detector/show.py
+result.txt
+/media/
+classes.names
+darknet-yolov3.cfg
+lapi.weights
